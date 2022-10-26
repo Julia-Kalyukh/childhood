@@ -266,7 +266,8 @@ get_header();
         </div>
       </div>
       <div class="col-lg-6">
-        <div id="map" class="contacts__map">
+        <div class="contacts__map">
+          <?php echo do_shortcode('[yamap center="55.7364,37.5051" height="22rem" controls="zoomControl;searchControl;routeButtonControl;rulerControl;fullscreenControl;geolocationControl" zoom="15" type="yandex#map"][yaplacemark  name="Мир Детства" coord="55.7369,37.5052" icon="islands#blueStretchyIcon" color="#ffda1f"][/yamap]'); ?>
         </div>
       </div>
     </div>
