@@ -76,7 +76,7 @@ get_header();
       <div class="col-md-10 offset-md-1 offset-lg-0 col-lg-6 col-xl-5 offset-xl-1">
         <h1 class="title underlined"> <?php the_field('about_title'); ?> </h1>
         <div class="about__text"> <?php the_field('about_descr'); ?> </div>
-        <a href="#" class="button">Узнать больше</a>
+        <a href="<?php echo get_page_link(165); ?>" class="button">Узнать больше</a>
       </div>
     </div>
   </div>
