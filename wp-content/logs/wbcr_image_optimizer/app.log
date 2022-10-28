@@ -1,0 +1,985 @@
+
+28-10-2022 17:49:30 [localhost][info] Parent plugin start installation!
+28-10-2022 17:49:30 [localhost][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.8
+28-10-2022 17:49:31 [localhost][info] Parent plugin installation complete!
+-------------------------------
+28-10-2022 17:49:59 [localhost][info] Try to create backup directory. Backup dir: (/Applications/MAMP/htdocs/childhood/wp-content/uploads/wio_backup)
+-------------------------------
+28-10-2022 17:50:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:15 [localhost][info] Try to create backup directory. Backup dir: (/Applications/MAMP/htdocs/childhood/wp-content/uploads/wio_backup/2022/10)
+28-10-2022 17:50:15 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/logo.png) to a remote server (server_1).
+28-10-2022 17:50:16 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:16 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/logo-150x150.png) to a remote server (server_1).
+28-10-2022 17:50:17 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:17 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/logo-300x90.png) to a remote server (server_1).
+28-10-2022 17:50:17 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:17 [localhost][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"17","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":21695,"final_size":21695,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":14416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968617}
+28-10-2022 17:50:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+28-10-2022 17:50:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:18 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about.jpg) to a remote server (server_1).
+28-10-2022 17:50:19 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:20 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:20 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:20 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about-300x200.jpg) to a remote server (server_1).
+28-10-2022 17:50:20 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:20 [localhost][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"29","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":123062,"final_size":123062,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":106608,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968620}
+28-10-2022 17:50:21 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+28-10-2022 17:50:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:22 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/team.jpg) to a remote server (server_1).
+28-10-2022 17:50:22 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:23 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/team-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:23 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:24 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/team-300x153.jpg) to a remote server (server_1).
+28-10-2022 17:50:24 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:24 [localhost][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"36","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":201283,"final_size":201283,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":179283,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968624}
+28-10-2022 17:50:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+28-10-2022 17:50:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:25 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_1.jpg) to a remote server (server_1).
+28-10-2022 17:50:26 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:27 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_1-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:28 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:28 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_1-300x200.jpg) to a remote server (server_1).
+28-10-2022 17:50:28 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:28 [localhost][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"72","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":148873,"final_size":148873,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":128899,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968628}
+28-10-2022 17:50:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+28-10-2022 17:50:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:29 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_2.jpg) to a remote server (server_1).
+28-10-2022 17:50:30 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:31 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_2-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:32 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:32 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_2-300x200.jpg) to a remote server (server_1).
+28-10-2022 17:50:32 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:32 [localhost][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"73","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":185724,"final_size":185724,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":167283,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968632}
+28-10-2022 17:50:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+28-10-2022 17:50:33 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:33 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_3.jpg) to a remote server (server_1).
+28-10-2022 17:50:34 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:35 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_3-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:35 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:35 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/about_3-300x195.jpg) to a remote server (server_1).
+28-10-2022 17:50:35 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:35 [localhost][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"74","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":92463,"final_size":92463,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":78562,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968635}
+28-10-2022 17:50:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+28-10-2022 17:50:36 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:36 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_1.jpg) to a remote server (server_1).
+28-10-2022 17:50:37 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:38 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_1-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:38 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:38 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_1-300x148.jpg) to a remote server (server_1).
+28-10-2022 17:50:38 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:38 [localhost][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"106","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":79899,"final_size":79899,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":68248,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968638}
+28-10-2022 17:50:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+28-10-2022 17:50:39 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:39 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_2.jpg) to a remote server (server_1).
+28-10-2022 17:50:40 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:41 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_2-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:41 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:41 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_2-300x94.jpg) to a remote server (server_1).
+28-10-2022 17:50:42 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:42 [localhost][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"107","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":73567,"final_size":73567,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":64989,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968642}
+28-10-2022 17:50:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+28-10-2022 17:50:43 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:43 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3.jpg) to a remote server (server_1).
+28-10-2022 17:50:44 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:45 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:45 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:45 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-300x148.jpg) to a remote server (server_1).
+28-10-2022 17:50:45 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:45 [localhost][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"108","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":208109,"final_size":208109,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":193209,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968645}
+28-10-2022 17:50:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+28-10-2022 17:50:46 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:47 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_1.jpg) to a remote server (server_1).
+28-10-2022 17:50:47 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:49 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_1-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:49 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:50 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_1-300x192.jpg) to a remote server (server_1).
+28-10-2022 17:50:50 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:50 [localhost][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"116","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":354945,"final_size":338606,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":332344,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968650}
+28-10-2022 17:50:50 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+28-10-2022 17:50:51 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:51 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_2.jpg) to a remote server (server_1).
+28-10-2022 17:50:52 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:54 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_2-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:55 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:55 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_2-300x193.jpg) to a remote server (server_1).
+28-10-2022 17:50:55 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:56 [localhost][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"117","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":355915,"final_size":355915,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":330233,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968656}
+28-10-2022 17:50:56 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+28-10-2022 17:50:56 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:50:57 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_3.jpg) to a remote server (server_1).
+28-10-2022 17:50:58 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:59 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_3-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:50:59 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:50:59 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_3-300x200.jpg) to a remote server (server_1).
+28-10-2022 17:50:59 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:00 [localhost][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"118","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":218127,"final_size":218127,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":200413,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968660}
+28-10-2022 17:51:00 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+28-10-2022 17:51:00 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:01 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_4.jpg) to a remote server (server_1).
+28-10-2022 17:51:02 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:02 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_4-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:03 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:03 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_4-300x199.jpg) to a remote server (server_1).
+28-10-2022 17:51:03 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:03 [localhost][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"119","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":211648,"final_size":211648,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":186681,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968663}
+28-10-2022 17:51:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+28-10-2022 17:51:04 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:05 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_5.jpg) to a remote server (server_1).
+28-10-2022 17:51:05 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:06 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_5-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:06 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:06 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_5-300x200.jpg) to a remote server (server_1).
+28-10-2022 17:51:06 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:06 [localhost][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"120","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106046,"final_size":106046,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":89728,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968666}
+28-10-2022 17:51:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+28-10-2022 17:51:07 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:08 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_6.jpg) to a remote server (server_1).
+28-10-2022 17:51:08 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:09 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_6-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:09 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:09 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_6-300x190.jpg) to a remote server (server_1).
+28-10-2022 17:51:09 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:10 [localhost][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"121","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":136597,"final_size":136597,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":116355,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968670}
+28-10-2022 17:51:10 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+28-10-2022 17:51:10 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:11 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_7.jpg) to a remote server (server_1).
+28-10-2022 17:51:11 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:12 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_7-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:12 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:12 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_7-300x200.jpg) to a remote server (server_1).
+28-10-2022 17:51:12 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:12 [localhost][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"122","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":44372,"final_size":44372,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":36217,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968672}
+28-10-2022 17:51:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+28-10-2022 17:51:13 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:14 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_8.jpg) to a remote server (server_1).
+28-10-2022 17:51:14 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:15 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_8-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:15 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:15 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/toy_8-300x169.jpg) to a remote server (server_1).
+28-10-2022 17:51:15 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:16 [localhost][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"123","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":98469,"final_size":98469,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":82555,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968676}
+28-10-2022 17:51:16 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+28-10-2022 17:51:16 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:16 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/not-found.jpg) to a remote server (server_1).
+28-10-2022 17:51:17 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:17 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/not-found-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:17 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:17 [localhost][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"125","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":11723,"final_size":11386,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":8479,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968677}
+28-10-2022 17:51:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+28-10-2022 17:51:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:18 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-edited.jpg) to a remote server (server_1).
+28-10-2022 17:51:19 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:19 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-edited-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:19 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:20 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-edited-300x300.jpg) to a remote server (server_1).
+28-10-2022 17:51:20 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:20 [localhost][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"192","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":165260,"final_size":165260,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":136574,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968680}
+28-10-2022 17:51:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+28-10-2022 17:51:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:21 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-edited-1.jpg) to a remote server (server_1).
+28-10-2022 17:51:21 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:23 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-edited-1-150x150.jpg) to a remote server (server_1).
+28-10-2022 17:51:23 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:24 [localhost][info] Preparing to upload a file (/Applications/MAMP/htdocs/childhood/wp-content/uploads/2022/10/bg_3-edited-1-300x300.jpg) to a remote server (server_1).
+28-10-2022 17:51:24 [localhost][info] File successfully uploaded to remote server (server_1).
+28-10-2022 17:51:24 [localhost][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"193","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":200383,"final_size":200383,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":172861,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1666968684}
+28-10-2022 17:51:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:27 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:27 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:28 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:29 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:30 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:31 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:31 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:32 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:33 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:33 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:34 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:34 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:35 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:36 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:36 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:37 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:37 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:38 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:38 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:39 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:40 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:40 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:41 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:42 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:43 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:43 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:44 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:44 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:44 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:44 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:45 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:46 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:46 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:47 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:47 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:48 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:49 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:49 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:50 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:50 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:51 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:51 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:51 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:51 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:52 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:52 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:53 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:53 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:54 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:54 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:55 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:55 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:56 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:56 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:57 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:57 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:58 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:58 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:51:59 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:51:59 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:00 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:00 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:01 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:02 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:02 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:03 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:03 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:04 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:04 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:05 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:06 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:07 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:07 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:08 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:10 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:10 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:11 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:11 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:12 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:13 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:13 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:14 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:14 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:16 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:16 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:17 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:19 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:19 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:20 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:20 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:21 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:22 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:22 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:23 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:24 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:27 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:28 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:29 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:30 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:31 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:31 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:32 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:32 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:33 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:34 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:34 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:35 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:36 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:36 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:37 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:37 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:37 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:37 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:38 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:39 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:40 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:40 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:41 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:42 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:43 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:43 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:43 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:43 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:44 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:44 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:45 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:46 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:46 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:47 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:47 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:48 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:48 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:49 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:49 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:50 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:50 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:51 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:51 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:52 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:52 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:53 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:53 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:54 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:54 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:54 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:54 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:55 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:55 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:56 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:56 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:57 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:58 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:58 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:52:59 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:52:59 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:00 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:00 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:00 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:00 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:01 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:02 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:02 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:03 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:04 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:04 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:05 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:06 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:07 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:07 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:08 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:10 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:10 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:11 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:11 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:12 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:12 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:13 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:13 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:14 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:14 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:16 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:16 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:17 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:19 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:19 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:20 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:21 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:22 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:22 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:23 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:23 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:24 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:27 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:28 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:29 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:29 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:30 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:31 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:31 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:32 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:33 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:34 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:34 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:35 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:35 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:36 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:36 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:37 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:37 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:38 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:39 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:40 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:40 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:40 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:41 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:42 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:43 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:43 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:44 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:44 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:45 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:46 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:46 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:46 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:46 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:47 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:47 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:48 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:49 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:49 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:50 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:50 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:51 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:51 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:52 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:52 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:52 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:52 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:53 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:53 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:54 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:54 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:55 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:55 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:56 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:56 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:57 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:57 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:57 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:58 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:58 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:58 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:53:59 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:53:59 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:00 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:00 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:01 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:02 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:02 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:03 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:03 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:03 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:04 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:04 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:05 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:06 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:07 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:07 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:08 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:10 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:10 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:11 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:11 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:12 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:13 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:13 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:14 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:14 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:14 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:14 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:16 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:16 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:17 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:19 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:19 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:20 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:20 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:21 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:22 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:22 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:23 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:24 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:27 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:28 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:29 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:54:30 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:54:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:01 [localhost][info] Try to create backup directory. Backup dir: (/Applications/MAMP/htdocs/childhood/wp-content/uploads/wio_backup)
+-------------------------------
+28-10-2022 17:56:08 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:09 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:09 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:10 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:10 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:11 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:11 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:12 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:13 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:13 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:14 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:14 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:15 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:16 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:16 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:17 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:18 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:19 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:19 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:20 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:21 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:21 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:21 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:22 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:22 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:23 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:24 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:24 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:25 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:26 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:27 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:27 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:28 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:29 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:29 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:30 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:30 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:31 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:31 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:32 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:32 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:32 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:33 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:34 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:34 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:35 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:36 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:36 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:37 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:37 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:38 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:38 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:38 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:39 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:40 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:40 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:41 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+28-10-2022 17:56:42 [localhost][info] Start bulk optimization process! Scope: media-library
+28-10-2022 17:56:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
